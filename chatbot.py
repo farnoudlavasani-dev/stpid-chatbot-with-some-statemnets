@@ -18,5 +18,5 @@ while "exit" not in message:
     else:
         print("Robot: " + reply(message))
         message = input("Human: ")
-        print("To exit the program, just say 'exit'.")
+        print("To exit the program, Just say 'exit'.")
     
